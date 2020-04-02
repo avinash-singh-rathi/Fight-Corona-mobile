@@ -1,6 +1,12 @@
 # Fight-Corona-mobile
 Mobile App for COVID 19. Tracking patients, tracking run away patients, finding suppliers within the city.
 
+<img src="screenshot-1.jpg" style="width:50%;" />
+<img src="screenshot-2.jpg" style="width:50%;" />
+<img src="screenshot-3.jpg" style="width:50%;" />
+<img src="screenshot-4.jpg" style="width:50%;" />
+
+
 ## Description
 Fight Corona is the app where user can report the patient who has the symptoms. It will also help to have the right information for the users.
   - It will help to detect the Patients who have ran away from the hospitals etc
