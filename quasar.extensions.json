@@ -1,0 +1,26 @@
+{
+  "@quasar/icon-genie": {
+    "minify_dev": "pngquant",
+    "minify_build": "optipng",
+    "cordova": {
+      "background_color": "#fff",
+      "splashscreen_type": "generate"
+    },
+    "build_always": true,
+    "__internal": {
+      "dev": {
+        "spa": {
+          "iconHash": "a5e6a8ccff1a71a0a4fef297766ae0e9"
+        }
+      },
+      "build": {
+        "cordova": {
+          "iconHash": "a5e6a8ccff1a71a0a4fef297766ae0e9",
+          "splashscreenHash": false,
+          "splashscreenType": "generate",
+          "backgroundColor": "#fff"
+        }
+      }
+    }
+  }
+}
